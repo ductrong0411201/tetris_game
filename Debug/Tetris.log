@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Note: including lib: glut32.lib
+D:\hoc\Đồ họa máy tính\gamexephinh\src\Main.cpp(210,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tetris.vcxproj -> D:\hoc\Đồ họa máy tính\gamexephinh\Debug\Tetris.exe
+  0 File(s) copied

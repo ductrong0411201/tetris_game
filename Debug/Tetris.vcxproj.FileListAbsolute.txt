@@ -1,0 +1,2 @@
+D:\hoc\Đồ họa máy tính\tetris-opengl\Debug\Tetris.exe
+D:\hoc\Đồ họa máy tính\gamexephinh\Debug\Tetris.exe
